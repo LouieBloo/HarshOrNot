@@ -3,9 +3,21 @@ var express = require('express');
 var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
+var passport = require('passport');
+var cors = require('cors');
 
-var indexRouter = require('./routes/index');
-var usersRouter = require('./routes/users');
+var database = require('./lib/database/database');
+
+database.connect();
+
+//require users schema from mongoose so passport can use to initialize jwt auth
+require('./lib/models/users');
+require('./config/passport');//always after users model
+
+//routing requires
+var usersRouter = require('./routes/users/users');
+var apiRouter = require('./routes/router');
+
 
 var app = express();
 
@@ -19,8 +31,16 @@ app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
-app.use('/', indexRouter);
-app.use('/users', usersRouter);
+app.use(cors({origin:'http://localhost:4200'}));
+
+//passport init always before routing
+app.use(passport.initialize());
+
+//routing init
+app.use('/api/users', usersRouter);
+app.use('/api',apiRouter);
+
+
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
