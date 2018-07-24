@@ -7,6 +7,7 @@ var register = require('../../lib/controllers/users/register');
 var login = require('../../lib/controllers/users/login');
 
 var profilesRouter = require('./profiles/profiles');
+var searchRouter = require('./search/search');
 
 router.post('/register',register.validation, function(req, res, next) {
   
@@ -30,5 +31,6 @@ router.post('/login',login.validation, function(req, res, next) {
 
 
 router.use('/profiles',profilesRouter);
+router.use('/search',searchRouter);
 
 module.exports = router;
