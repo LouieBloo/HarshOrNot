@@ -7,31 +7,45 @@ var photos = require('../../../lib/controllers/users/photos/photos');
 var auth = require('../../../config/auth');
 
 
-// router.post('/upload',photos.upload.single('tiny'),function(req, res, next) {
-//   console.log("POSTING TO ROUTER");
-//   //console.log(req);
-//   console.log("res\n");
-//   console.log(res);
-// //   photos.uploadFile(req,res,next).then(response=>{
-// //     res.json(response);
-// //   }).catch(error =>{
-// //     res.json(error)
-// //   });
 
-// });
+router.post('/upload',
+    auth,
+    photos.generateUniquePhotoID,
+    photos.uploadPhotoToS3.single('photo'),
+    function(req,res,next){
 
-router.post('/upload',function(req, res, next) {
-    var to = "ass";
-    req.photoKey = "luke";
-    next();
-  },photos.upload.single('photo'),function(req,res,next){
-      console.log("done");
-  });
+        //once the middleware is done, insert the new photoURL's
+        photos.insertNewPhotoID(req,res,next).then(function(response){
+            res.json(response);
+        }).catch(function(err){
+            res.json(err);
+        })
+    }
+);
 
-router.post('/get',photos.getObject,function(req,res,next){
-    res.send("ok");
-})
+router.post('/delete',auth,photos.deletePhotoValidation,function(req,res,next){
+    photos.deletePhoto(req,res,next).then(response =>{
+        res.json(response);
+    }).catch(err=>{
+        res.json(err);
+    })
+});
 
+router.post('/swap',auth,photos.swapPhotosValidation,function(req,res,next){
+    photos.swapPhotos(req,res,next).then(response =>{
+        res.json(response);
+    }).catch(err=>{
+        res.json(err);
+    })
+});
+
+router.post('/getMine',auth,function(req,res,next){
+    photos.getMyPhotos(req,res,next).then(response =>{
+        res.json(response);
+    }).catch(err=>{
+        res.json(err);
+    })
+});
 
 
 module.exports = router;
