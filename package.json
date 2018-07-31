@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
-    "monitor": "nodemon ./bin/www"
+    "monitor": "nodemon ./bin/www",
+    "seed":"node ./lib/database/seeding/seedFakeUsers"
   },
   "dependencies": {
     "aws-sdk": "^2.280.1",
