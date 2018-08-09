@@ -1,0 +1,9 @@
+{
+    "accessKeyId": "",
+    "secretAccessKey": "",
+    "region": "us-west-1",
+    "signatureVersion": "v4",
+    "bucketName":"harsh-or-not",
+    "basePhotoURL":"",
+    "rawBasePhotoURL":""
+}

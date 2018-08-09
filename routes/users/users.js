@@ -11,30 +11,30 @@ var searchRouter = require('./search/search');
 var photosRouter = require('./photos/photos');
 var homeRouter = require('./home/home');
 
-router.post('/register',register.validation, function(req, res, next) {
-  
-  register(req,res,next).then(response=>{
+router.post('/register', register.validation, function (req, res, next) {
+
+  register(req, res, next).then(response => {
     res.json(response);
-  }).catch(error =>{
+  }).catch(error => {
     res.json(error)
   });
 
 });
 
-router.post('/login',login.validation, function(req, res, next) {
-  
-  login(req,res,next).then(response=>{
+router.post('/login', login.validation, function (req, res, next) {
+
+  login.login(req, res, next).then(response => {
     res.json(response);
-  }).catch(error =>{
+  }).catch(error => {
     res.json(error)
   });
 
 });
 
 
-router.use('/profiles',profilesRouter);
-router.use('/search',searchRouter);
-router.use('/photos',photosRouter);
-router.use('/home',homeRouter);
+router.use('/profiles', profilesRouter);
+router.use('/search', searchRouter);
+router.use('/photos', photosRouter);
+router.use('/home', homeRouter);
 
 module.exports = router;

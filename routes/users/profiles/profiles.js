@@ -8,14 +8,13 @@ var mine = require('../../../lib/controllers/users/profiles/mine');
 
 var auth = require('../../../config/auth');
 
-router.get('/view',auth,function(req, res, next) {
+router.post('/view',[auth,view.validation],function(req, res, next) {
   
   view(req,res,next).then(response=>{
     res.json(response);
   }).catch(error =>{
     res.json(error)
   });
-
 });
 
 router.post('/mine',auth,function(req,res,next){
@@ -24,7 +23,6 @@ router.post('/mine',auth,function(req,res,next){
   }).catch(error =>{
     res.json(error)
   });
-
 });
 
 router.use('/update',updateRouter);
