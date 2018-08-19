@@ -12,6 +12,7 @@ database.connect();
 
 //require users schema from mongoose so passport can use to initialize jwt auth
 require('./lib/models/users');
+require('./lib/models/profile-feedback');
 require('./config/passport');//always after users model
 
 //routing requires
@@ -36,9 +37,9 @@ app.use(cors({origin:'http://localhost:4200'}));
 //passport init always before routing
 app.use(passport.initialize());
 
-//routing init
-app.use('/api/users', usersRouter);
+//all routers
 app.use('/api',apiRouter);
+
 
 
 

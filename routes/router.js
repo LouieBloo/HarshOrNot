@@ -3,24 +3,16 @@ var router = express.Router();
 
 var userModel = require('../lib/models/users');
 
+var usersRouter = require('./users/users');
+var feedbackRouter = require('./feedback/feedback');
+
 router.get('/', function(req, res, next) {
   res.json("API is live !");
 });
 
-router.get('/addUser/:name', function(req, res, next) {
 
-  userModel.create({
-    name:req.params.name,
-    body: "large",
-    gender: "Male"
-  },function(err,small){
-    console.log(err);
-    console.log(small);
 
-    res.send("ok");
-  });
-  
-  
-});
+router.use('/users', usersRouter);
+router.use('/feedback',feedbackRouter);
 
 module.exports = router;
