@@ -15,8 +15,16 @@ router.post('/profile-feedback/add',[auth, profileFeedback.addValidation], funct
   });
 });
 
-router.post('/profile-feedback/get', [auth,profileFeedback.getValidation], function (req, res, next) {
-  profileFeedback.get(req, res, next).then(response => {
+router.post('/profile-feedback/getSingle', [auth,profileFeedback.getValidation], function (req, res, next) {
+  profileFeedback.getSingle(req, res, next).then(response => {
+    res.json(response);
+  }).catch(error => {
+    res.json(error)
+  });
+});
+
+router.post('/profile-feedback/getFeedbackAboutMe', [auth,profileFeedback.getFeedbackAboutMeValidation], function (req, res, next) {
+  profileFeedback.getFeedbackAboutMe(req, res, next).then(response => {
     res.json(response);
   }).catch(error => {
     res.json(error)
