@@ -1,801 +1,801 @@
 [{
-  "name": "Jard",
-  "email": "jliell0@oracle.com",
-  "birthday": "11/8/1982",
-  "bio": "In congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
+  "name": "Oralle",
+  "email": "otomik0@springer.com",
+  "birthday": "11/16/1986",
+  "bio": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
+  "gender": "Female",
+  "bodyType": "Very Plus",
+  "preference": "Female",
+  "range": 1,
+  "ageRange": {
+    "min": 23,
+    "max": 25
+  },
+  "long": -122.068779,
+  "lat": 38.909028,
+  "zip": 92844
+}, {
+  "name": "Lacee",
+  "email": "lgover1@phoca.cz",
+  "birthday": "8/7/1989",
+  "bio": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
+  "gender": "Female",
+  "bodyType": "Very Plus",
+  "preference": "Male",
+  "range": 105,
+  "ageRange": {
+    "min": 22,
+    "max": 33
+  },
+  "long": -121.215864,
+  "lat": 39.325283,
+  "zip": 92012
+}, {
+  "name": "Jennee",
+  "email": "jdipple2@cbsnews.com",
+  "birthday": "11/21/1958",
+  "bio": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+  "gender": "Female",
+  "bodyType": "Plus",
+  "preference": "Male",
+  "range": 134,
+  "ageRange": {
+    "min": 24,
+    "max": 27
+  },
+  "long": -122.004393,
+  "lat": 38.428601,
+  "zip": 90634
+}, {
+  "name": "Evered",
+  "email": "ewathan3@simplemachines.org",
+  "birthday": "9/1/1998",
+  "bio": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
   "gender": "Male",
   "bodyType": "Thin",
-  "preference": "Both",
-  "range": 104,
+  "preference": "Female",
+  "range": 117,
   "ageRange": {
-    "min": 20,
-    "max": 37
+    "min": 25,
+    "max": 31
   },
-  "long": -121.21014,
-  "lat": 38.183475,
-  "zip": 94466
+  "long": -121.892833,
+  "lat": 39.676313,
+  "zip": 91080
 }, {
-  "name": "Oran",
-  "email": "odrissell1@phpbb.com",
-  "birthday": "3/12/1994",
-  "bio": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
+  "name": "Vannie",
+  "email": "vcumberledge4@squidoo.com",
+  "birthday": "4/28/1940",
+  "bio": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
+  "gender": "Female",
+  "bodyType": "Plus",
+  "preference": "Male",
+  "range": 138,
+  "ageRange": {
+    "min": 22,
+    "max": 25
+  },
+  "long": -121.186261,
+  "lat": 39.364948,
+  "zip": 95060
+}, {
+  "name": "Dolf",
+  "email": "dfranzschoninger5@360.cn",
+  "birthday": "4/18/1970",
+  "bio": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
   "gender": "Male",
-  "bodyType": "Althletic",
+  "bodyType": "Thin",
   "preference": "Both",
   "range": 73,
   "ageRange": {
-    "min": 18,
-    "max": 38
+    "min": 19,
+    "max": 33
   },
-  "long": -121.261779,
-  "lat": 38.253473,
-  "zip": 91386
+  "long": -120.492235,
+  "lat": 39.067473,
+  "zip": 91421
 }, {
-  "name": "Westbrook",
-  "email": "wtrewin2@ibm.com",
-  "birthday": "5/4/1984",
-  "bio": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
+  "name": "Clayson",
+  "email": "chowsden6@jigsy.com",
+  "birthday": "6/1/1902",
+  "bio": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
   "gender": "Male",
-  "bodyType": "Very Plus",
-  "preference": "Both",
-  "range": 74,
+  "bodyType": "Plus",
+  "preference": "Male",
+  "range": 141,
   "ageRange": {
-    "min": 23,
-    "max": 28
+    "min": 18,
+    "max": 29
   },
-  "long": -121.586448,
-  "lat": 39.863658,
-  "zip": 90342
+  "long": -120.561031,
+  "lat": 39.538585,
+  "zip": 92448
 }, {
-  "name": "Adlai",
-  "email": "adozdill3@ow.ly",
-  "birthday": "4/16/1999",
+  "name": "Milena",
+  "email": "mscutter7@addtoany.com",
+  "birthday": "11/2/1981",
+  "bio": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
+  "gender": "Female",
+  "bodyType": "Very Plus",
+  "preference": "Male",
+  "range": 69,
+  "ageRange": {
+    "min": 22,
+    "max": 33
+  },
+  "long": -122.428619,
+  "lat": 39.408007,
+  "zip": 92563
+}, {
+  "name": "Ernie",
+  "email": "emancktelow8@cbsnews.com",
+  "birthday": "5/12/1910",
   "bio": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
   "gender": "Male",
   "bodyType": "Very Plus",
-  "preference": "Female",
-  "range": 60,
-  "ageRange": {
-    "min": 23,
-    "max": 39
-  },
-  "long": -121.436391,
-  "lat": 39.410049,
-  "zip": 90861
-}, {
-  "name": "Mano",
-  "email": "mbernier4@nytimes.com",
-  "birthday": "10/24/1999",
-  "bio": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
-  "gender": "Male",
-  "bodyType": "Thin",
   "preference": "Both",
-  "range": 138,
-  "ageRange": {
-    "min": 21,
-    "max": 40
-  },
-  "long": -121.328299,
-  "lat": 39.229631,
-  "zip": 94890
-}, {
-  "name": "Roberto",
-  "email": "rbakesef5@upenn.edu",
-  "birthday": "1/17/1982",
-  "bio": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
-  "gender": "Male",
-  "bodyType": "Thin",
-  "preference": "Female",
-  "range": 126,
-  "ageRange": {
-    "min": 18,
-    "max": 37
-  },
-  "long": -121.253595,
-  "lat": 39.423609,
-  "zip": 91275
-}, {
-  "name": "Husein",
-  "email": "hepp6@state.tx.us",
-  "birthday": "9/20/1993",
-  "bio": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
-  "gender": "Male",
-  "bodyType": "Thin",
-  "preference": "Male",
-  "range": 97,
-  "ageRange": {
-    "min": 23,
-    "max": 35
-  },
-  "long": -122.266183,
-  "lat": 39.01444,
-  "zip": 91511
-}, {
-  "name": "Jake",
-  "email": "jsherer7@go.com",
-  "birthday": "9/7/1994",
-  "bio": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
-  "gender": "Male",
-  "bodyType": "Althletic",
-  "preference": "Both",
-  "range": 131,
-  "ageRange": {
-    "min": 19,
-    "max": 37
-  },
-  "long": -120.55643,
-  "lat": 38.872085,
-  "zip": 91559
-}, {
-  "name": "Barbara-anne",
-  "email": "bwoolford8@nature.com",
-  "birthday": "1/25/1996",
-  "bio": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.",
-  "gender": "Female",
-  "bodyType": "Althletic",
-  "preference": "Male",
-  "range": 92,
-  "ageRange": {
-    "min": 18,
-    "max": 40
-  },
-  "long": -121.193533,
-  "lat": 39.911256,
-  "zip": 92225
-}, {
-  "name": "Karl",
-  "email": "kjaine9@paginegialle.it",
-  "birthday": "10/17/1990",
-  "bio": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
-  "gender": "Male",
-  "bodyType": "Thin",
-  "preference": "Both",
-  "range": 54,
-  "ageRange": {
-    "min": 25,
-    "max": 40
-  },
-  "long": -121.304116,
-  "lat": 38.780489,
-  "zip": 93402
-}, {
-  "name": "Giuditta",
-  "email": "gsheala@paypal.com",
-  "birthday": "8/30/2000",
-  "bio": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
-  "gender": "Female",
-  "bodyType": "Althletic",
-  "preference": "Male",
-  "range": 11,
-  "ageRange": {
-    "min": 20,
-    "max": 31
-  },
-  "long": -121.274596,
-  "lat": 39.839179,
-  "zip": 94457
-}, {
-  "name": "Coleen",
-  "email": "cattewillb@merriam-webster.com",
-  "birthday": "9/27/1991",
-  "bio": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",
-  "gender": "Female",
-  "bodyType": "Plus",
-  "preference": "Male",
-  "range": 70,
-  "ageRange": {
-    "min": 23,
-    "max": 26
-  },
-  "long": -121.810663,
-  "lat": 39.922373,
-  "zip": 93466
-}, {
-  "name": "Orson",
-  "email": "ostansbiec@smugmug.com",
-  "birthday": "8/18/1990",
-  "bio": "In congue. Etiam justo. Etiam pretium iaculis justo.",
-  "gender": "Male",
-  "bodyType": "Plus",
-  "preference": "Both",
-  "range": 148,
+  "range": 55,
   "ageRange": {
     "min": 24,
-    "max": 38
+    "max": 25
   },
-  "long": -122.062655,
-  "lat": 38.79377,
-  "zip": 95546
+  "long": -121.974735,
+  "lat": 38.226268,
+  "zip": 92721
 }, {
-  "name": "Jerry",
-  "email": "jrykertd@godaddy.com",
-  "birthday": "12/20/1981",
-  "bio": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.",
-  "gender": "Male",
-  "bodyType": "Althletic",
+  "name": "Phylis",
+  "email": "pkeward9@irs.gov",
+  "birthday": "5/7/1924",
+  "bio": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
+  "gender": "Female",
+  "bodyType": "Plus",
   "preference": "Female",
-  "range": 70,
+  "range": 9,
   "ageRange": {
-    "min": 18,
-    "max": 33
+    "min": 22,
+    "max": 25
   },
-  "long": -121.547592,
-  "lat": 39.379391,
-  "zip": 95473
+  "long": -120.61621,
+  "lat": 39.196958,
+  "zip": 95780
 }, {
-  "name": "Scott",
-  "email": "sstraune@shinystat.com",
-  "birthday": "4/10/1990",
-  "bio": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
+  "name": "Lou",
+  "email": "ltumultya@princeton.edu",
+  "birthday": "2/25/1915",
+  "bio": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
   "gender": "Male",
-  "bodyType": "Althletic",
-  "preference": "Male",
-  "range": 90,
+  "bodyType": "Average",
+  "preference": "Female",
+  "range": 34,
   "ageRange": {
-    "min": 21,
-    "max": 26
+    "min": 25,
+    "max": 27
   },
-  "long": -121.888932,
-  "lat": 39.624248,
-  "zip": 94005
+  "long": -122.387902,
+  "lat": 38.590169,
+  "zip": 94807
 }, {
-  "name": "Roderick",
-  "email": "rdavsonf@jigsy.com",
-  "birthday": "11/30/1980",
-  "bio": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+  "name": "Terrance",
+  "email": "tlillecrapb@1688.com",
+  "birthday": "2/13/1950",
+  "bio": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
+  "gender": "Male",
+  "bodyType": "Athletic",
+  "preference": "Male",
+  "range": 63,
+  "ageRange": {
+    "min": 23,
+    "max": 25
+  },
+  "long": -120.951373,
+  "lat": 39.713734,
+  "zip": 94233
+}, {
+  "name": "Alphard",
+  "email": "ahealingc@webnode.com",
+  "birthday": "2/20/1954",
+  "bio": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
   "gender": "Male",
   "bodyType": "Plus",
-  "preference": "Male",
+  "preference": "Female",
   "range": 18,
   "ageRange": {
-    "min": 25,
+    "min": 22,
     "max": 34
   },
-  "long": -121.861123,
-  "lat": 38.286283,
-  "zip": 93131
+  "long": -121.663923,
+  "lat": 39.932961,
+  "zip": 94177
 }, {
-  "name": "Cassondra",
-  "email": "clorencg@purevolume.com",
-  "birthday": "3/18/1982",
-  "bio": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
-  "gender": "Female",
+  "name": "Curran",
+  "email": "cwhybrayd@ucoz.com",
+  "birthday": "12/2/1935",
+  "bio": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
+  "gender": "Male",
   "bodyType": "Very Plus",
   "preference": "Female",
-  "range": 92,
+  "range": 41,
   "ageRange": {
-    "min": 25,
-    "max": 25
+    "min": 18,
+    "max": 27
   },
-  "long": -120.730253,
-  "lat": 38.769435,
-  "zip": 92953
+  "long": -120.809958,
+  "lat": 38.793542,
+  "zip": 90535
 }, {
-  "name": "Denny",
-  "email": "dduttonh@ning.com",
-  "birthday": "5/4/1984",
-  "bio": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
+  "name": "Mandy",
+  "email": "mtongee@multiply.com",
+  "birthday": "4/2/1945",
+  "bio": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
   "gender": "Female",
-  "bodyType": "Very Plus",
+  "bodyType": "Plus",
   "preference": "Female",
-  "range": 4,
+  "range": 82,
   "ageRange": {
-    "min": 23,
+    "min": 20,
     "max": 32
   },
-  "long": -121.115161,
-  "lat": 38.743816,
-  "zip": 95967
+  "long": -122.443953,
+  "lat": 39.925408,
+  "zip": 90922
 }, {
-  "name": "Alejandra",
-  "email": "aconnuei@myspace.com",
-  "birthday": "8/7/1993",
-  "bio": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
-  "gender": "Female",
+  "name": "Gasparo",
+  "email": "ggiorgiof@oracle.com",
+  "birthday": "7/24/1933",
+  "bio": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+  "gender": "Male",
   "bodyType": "Very Plus",
   "preference": "Male",
-  "range": 119,
+  "range": 134,
   "ageRange": {
-    "min": 21,
-    "max": 33
+    "min": 19,
+    "max": 25
   },
-  "long": -121.478068,
-  "lat": 39.158527,
-  "zip": 94306
+  "long": -121.128148,
+  "lat": 39.78039,
+  "zip": 93687
 }, {
-  "name": "Gay",
-  "email": "gbercerosj@narod.ru",
-  "birthday": "3/26/1986",
-  "bio": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
-  "gender": "Male",
-  "bodyType": "Thin",
+  "name": "Kandace",
+  "email": "kdantesiag@google.com.hk",
+  "birthday": "6/28/1923",
+  "bio": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+  "gender": "Female",
+  "bodyType": "Average",
   "preference": "Female",
-  "range": 102,
-  "ageRange": {
-    "min": 24,
-    "max": 37
-  },
-  "long": -122.125746,
-  "lat": 38.216544,
-  "zip": 95313
-}, {
-  "name": "Yuri",
-  "email": "ygotecliffek@histats.com",
-  "birthday": "9/9/1980",
-  "bio": "Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
-  "gender": "Male",
-  "bodyType": "Althletic",
-  "preference": "Female",
-  "range": 48,
+  "range": 115,
   "ageRange": {
     "min": 19,
     "max": 32
   },
-  "long": -121.30282,
-  "lat": 39.462838,
-  "zip": 95514
+  "long": -121.835819,
+  "lat": 38.930831,
+  "zip": 90394
 }, {
-  "name": "Manny",
-  "email": "mdaryl@hp.com",
-  "birthday": "8/27/1993",
-  "bio": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
+  "name": "Bartie",
+  "email": "btunneyh@comsenz.com",
+  "birthday": "11/21/1987",
+  "bio": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
   "gender": "Male",
-  "bodyType": "Althletic",
-  "preference": "Both",
-  "range": 39,
-  "ageRange": {
-    "min": 22,
-    "max": 36
-  },
-  "long": -120.666225,
-  "lat": 38.853341,
-  "zip": 91692
-}, {
-  "name": "Pooh",
-  "email": "pgrishenkovm@g.co",
-  "birthday": "8/15/2000",
-  "bio": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
-  "gender": "Female",
-  "bodyType": "Very Plus",
+  "bodyType": "Athletic",
   "preference": "Female",
-  "range": 6,
-  "ageRange": {
-    "min": 25,
-    "max": 34
-  },
-  "long": -121.521081,
-  "lat": 38.301374,
-  "zip": 92573
-}, {
-  "name": "Ricky",
-  "email": "rmackellenn@gravatar.com",
-  "birthday": "9/13/1988",
-  "bio": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
-  "gender": "Female",
-  "bodyType": "Althletic",
-  "preference": "Female",
-  "range": 47,
+  "range": 137,
   "ageRange": {
     "min": 21,
-    "max": 40
+    "max": 26
   },
-  "long": -120.911541,
-  "lat": 38.349182,
-  "zip": 94077
+  "long": -121.919276,
+  "lat": 38.338819,
+  "zip": 90018
 }, {
-  "name": "Joletta",
-  "email": "jbevanso@blinklist.com",
-  "birthday": "1/5/1984",
-  "bio": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
-  "gender": "Female",
-  "bodyType": "Very Plus",
-  "preference": "Female",
-  "range": 134,
-  "ageRange": {
-    "min": 21,
-    "max": 40
-  },
-  "long": -121.196821,
-  "lat": 39.508082,
-  "zip": 95533
-}, {
-  "name": "Gill",
-  "email": "gegletonp@dedecms.com",
-  "birthday": "2/19/1987",
-  "bio": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
-  "gender": "Male",
-  "bodyType": "Very Plus",
-  "preference": "Both",
-  "range": 12,
-  "ageRange": {
-    "min": 25,
-    "max": 25
-  },
-  "long": -121.963652,
-  "lat": 38.542489,
-  "zip": 94321
-}, {
-  "name": "Gerrie",
-  "email": "gpiddockeq@typepad.com",
-  "birthday": "6/1/1995",
-  "bio": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
+  "name": "Fernanda",
+  "email": "fcusseni@slideshare.net",
+  "birthday": "10/15/1936",
+  "bio": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
   "gender": "Female",
   "bodyType": "Thin",
-  "preference": "Female",
-  "range": 123,
+  "preference": "Male",
+  "range": 31,
   "ageRange": {
-    "min": 22,
-    "max": 38
+    "min": 23,
+    "max": 29
   },
-  "long": -121.91441,
-  "lat": 39.811249,
-  "zip": 92286
+  "long": -122.26394,
+  "lat": 39.240484,
+  "zip": 90330
 }, {
-  "name": "Dominica",
-  "email": "dcurnokr@vk.com",
-  "birthday": "9/2/1990",
-  "bio": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+  "name": "Cristian",
+  "email": "ccopemanj@google.com.hk",
+  "birthday": "12/7/2000",
+  "bio": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
+  "gender": "Male",
+  "bodyType": "Athletic",
+  "preference": "Male",
+  "range": 94,
+  "ageRange": {
+    "min": 21,
+    "max": 35
+  },
+  "long": -121.466186,
+  "lat": 39.609133,
+  "zip": 90621
+}, {
+  "name": "Wenonah",
+  "email": "wpeasnonek@squarespace.com",
+  "birthday": "9/20/1984",
+  "bio": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
   "gender": "Female",
   "bodyType": "Plus",
   "preference": "Both",
   "range": 81,
   "ageRange": {
-    "min": 19,
-    "max": 40
+    "min": 22,
+    "max": 35
   },
-  "long": -120.818724,
-  "lat": 39.44783,
-  "zip": 90413
+  "long": -122.167462,
+  "lat": 38.559371,
+  "zip": 93747
 }, {
-  "name": "Gwendolyn",
-  "email": "groscams@businesswire.com",
-  "birthday": "3/14/1991",
-  "bio": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
+  "name": "Adeline",
+  "email": "aryleyl@google.ru",
+  "birthday": "7/15/1902",
+  "bio": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
   "gender": "Female",
-  "bodyType": "Althletic",
-  "preference": "Male",
-  "range": 42,
-  "ageRange": {
-    "min": 20,
-    "max": 33
-  },
-  "long": -121.588414,
-  "lat": 38.365204,
-  "zip": 93787
-}, {
-  "name": "Marijn",
-  "email": "mglewt@go.com",
-  "birthday": "2/18/1988",
-  "bio": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
-  "gender": "Male",
-  "bodyType": "Plus",
+  "bodyType": "Athletic",
   "preference": "Female",
-  "range": 107,
+  "range": 30,
   "ageRange": {
     "min": 18,
-    "max": 36
+    "max": 31
   },
-  "long": -120.953834,
-  "lat": 38.955965,
-  "zip": 91213
+  "long": -120.83093,
+  "lat": 38.20151,
+  "zip": 95886
 }, {
-  "name": "Ivie",
-  "email": "iprobbingsu@tripadvisor.com",
-  "birthday": "4/5/1980",
-  "bio": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
+  "name": "Goldy",
+  "email": "gmulqueenym@nasa.gov",
+  "birthday": "2/13/1980",
+  "bio": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
   "gender": "Female",
-  "bodyType": "Thin",
-  "preference": "Male",
-  "range": 48,
-  "ageRange": {
-    "min": 21,
-    "max": 26
-  },
-  "long": -121.003845,
-  "lat": 39.710897,
-  "zip": 92459
-}, {
-  "name": "Rycca",
-  "email": "rmckernv@parallels.com",
-  "birthday": "9/6/1978",
-  "bio": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
-  "gender": "Female",
-  "bodyType": "Thin",
-  "preference": "Male",
-  "range": 32,
+  "bodyType": "Average",
+  "preference": "Both",
+  "range": 71,
   "ageRange": {
     "min": 25,
-    "max": 32
+    "max": 34
   },
-  "long": -121.252523,
-  "lat": 38.475482,
-  "zip": 90984
+  "long": -122.352587,
+  "lat": 39.632226,
+  "zip": 94162
 }, {
-  "name": "Lem",
-  "email": "lmoylanw@mysql.com",
-  "birthday": "4/30/1985",
-  "bio": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
+  "name": "Ado",
+  "email": "amcwilliamn@nydailynews.com",
+  "birthday": "5/4/1915",
+  "bio": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
+  "gender": "Male",
+  "bodyType": "Very Plus",
+  "preference": "Both",
+  "range": 125,
+  "ageRange": {
+    "min": 24,
+    "max": 31
+  },
+  "long": -121.810762,
+  "lat": 39.576776,
+  "zip": 91673
+}, {
+  "name": "Lethia",
+  "email": "lconechieo@japanpost.jp",
+  "birthday": "2/4/1953",
+  "bio": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+  "gender": "Female",
+  "bodyType": "Plus",
+  "preference": "Female",
+  "range": 84,
+  "ageRange": {
+    "min": 19,
+    "max": 34
+  },
+  "long": -120.655236,
+  "lat": 39.229894,
+  "zip": 93818
+}, {
+  "name": "Buddy",
+  "email": "bgroundwaterp@creativecommons.org",
+  "birthday": "3/3/1962",
+  "bio": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.",
+  "gender": "Male",
+  "bodyType": "Athletic",
+  "preference": "Both",
+  "range": 39,
+  "ageRange": {
+    "min": 19,
+    "max": 29
+  },
+  "long": -120.725998,
+  "lat": 39.842168,
+  "zip": 95478
+}, {
+  "name": "Graig",
+  "email": "gshollq@google.es",
+  "birthday": "5/21/1926",
+  "bio": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+  "gender": "Male",
+  "bodyType": "Thin",
+  "preference": "Female",
+  "range": 102,
+  "ageRange": {
+    "min": 25,
+    "max": 35
+  },
+  "long": -121.449528,
+  "lat": 38.629582,
+  "zip": 92567
+}, {
+  "name": "Delly",
+  "email": "dhartleburyr@twitter.com",
+  "birthday": "1/8/1904",
+  "bio": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
+  "gender": "Female",
+  "bodyType": "Average",
+  "preference": "Both",
+  "range": 19,
+  "ageRange": {
+    "min": 23,
+    "max": 35
+  },
+  "long": -121.446706,
+  "lat": 39.677792,
+  "zip": 96003
+}, {
+  "name": "Gearalt",
+  "email": "gciubutaros@pinterest.com",
+  "birthday": "9/5/1921",
+  "bio": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
   "gender": "Male",
   "bodyType": "Very Plus",
   "preference": "Male",
-  "range": 70,
+  "range": 86,
   "ageRange": {
-    "min": 21,
-    "max": 29
+    "min": 22,
+    "max": 27
   },
-  "long": -121.951547,
-  "lat": 39.018865,
-  "zip": 91293
+  "long": -121.088416,
+  "lat": 39.848555,
+  "zip": 90242
 }, {
-  "name": "Brendan",
-  "email": "bbelsherx@intel.com",
-  "birthday": "9/25/1980",
-  "bio": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
+  "name": "Claude",
+  "email": "cweallt@meetup.com",
+  "birthday": "2/22/1944",
+  "bio": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+  "gender": "Female",
+  "bodyType": "Very Plus",
+  "preference": "Female",
+  "range": 1,
+  "ageRange": {
+    "min": 18,
+    "max": 33
+  },
+  "long": -120.890776,
+  "lat": 39.439301,
+  "zip": 90093
+}, {
+  "name": "Belva",
+  "email": "baldhouseu@springer.com",
+  "birthday": "4/9/1977",
+  "bio": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+  "gender": "Female",
+  "bodyType": "Average",
+  "preference": "Male",
+  "range": 41,
+  "ageRange": {
+    "min": 18,
+    "max": 27
+  },
+  "long": -121.377095,
+  "lat": 39.617888,
+  "zip": 94708
+}, {
+  "name": "Murial",
+  "email": "mreignouldv@paypal.com",
+  "birthday": "3/29/1938",
+  "bio": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
+  "gender": "Female",
+  "bodyType": "Very Plus",
+  "preference": "Male",
+  "range": 112,
+  "ageRange": {
+    "min": 25,
+    "max": 25
+  },
+  "long": -122.249232,
+  "lat": 38.664441,
+  "zip": 93615
+}, {
+  "name": "Ody",
+  "email": "oditterw@washington.edu",
+  "birthday": "6/2/1960",
+  "bio": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
   "gender": "Male",
   "bodyType": "Thin",
+  "preference": "Male",
+  "range": 4,
+  "ageRange": {
+    "min": 19,
+    "max": 28
+  },
+  "long": -121.318256,
+  "lat": 39.943892,
+  "zip": 91186
+}, {
+  "name": "Flory",
+  "email": "ffrichleyx@chronoengine.com",
+  "birthday": "6/6/1978",
+  "bio": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
+  "gender": "Male",
+  "bodyType": "Plus",
+  "preference": "Both",
+  "range": 98,
+  "ageRange": {
+    "min": 24,
+    "max": 30
+  },
+  "long": -121.187757,
+  "lat": 39.455973,
+  "zip": 91971
+}, {
+  "name": "Henka",
+  "email": "hpaviery@pbs.org",
+  "birthday": "11/21/1954",
+  "bio": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.\n\nCurabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+  "gender": "Female",
+  "bodyType": "Plus",
+  "preference": "Male",
+  "range": 8,
+  "ageRange": {
+    "min": 23,
+    "max": 31
+  },
+  "long": -121.052184,
+  "lat": 39.561131,
+  "zip": 95717
+}, {
+  "name": "Antonietta",
+  "email": "abeynez@edublogs.org",
+  "birthday": "6/25/1965",
+  "bio": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
+  "gender": "Female",
+  "bodyType": "Plus",
+  "preference": "Male",
+  "range": 72,
+  "ageRange": {
+    "min": 19,
+    "max": 29
+  },
+  "long": -120.755818,
+  "lat": 39.474061,
+  "zip": 94233
+}, {
+  "name": "Waverley",
+  "email": "wgeistbeck10@addthis.com",
+  "birthday": "10/2/1981",
+  "bio": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
+  "gender": "Male",
+  "bodyType": "Thin",
+  "preference": "Both",
+  "range": 56,
+  "ageRange": {
+    "min": 21,
+    "max": 27
+  },
+  "long": -122.118144,
+  "lat": 38.318564,
+  "zip": 94572
+}, {
+  "name": "Waylon",
+  "email": "wweighell11@ucsd.edu",
+  "birthday": "4/26/1910",
+  "bio": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+  "gender": "Male",
+  "bodyType": "Plus",
+  "preference": "Male",
+  "range": 128,
+  "ageRange": {
+    "min": 25,
+    "max": 33
+  },
+  "long": -122.369112,
+  "lat": 39.343743,
+  "zip": 92034
+}, {
+  "name": "Donni",
+  "email": "dpledger12@admin.ch",
+  "birthday": "6/14/1977",
+  "bio": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
+  "gender": "Female",
+  "bodyType": "Plus",
+  "preference": "Male",
+  "range": 91,
+  "ageRange": {
+    "min": 18,
+    "max": 33
+  },
+  "long": -121.541392,
+  "lat": 39.215869,
+  "zip": 94128
+}, {
+  "name": "Morty",
+  "email": "mwilcher13@latimes.com",
+  "birthday": "8/12/1995",
+  "bio": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
+  "gender": "Male",
+  "bodyType": "Thin",
+  "preference": "Male",
+  "range": 123,
+  "ageRange": {
+    "min": 22,
+    "max": 31
+  },
+  "long": -122.42371,
+  "lat": 39.636766,
+  "zip": 92978
+}, {
+  "name": "Barb",
+  "email": "bmcwaters14@indiatimes.com",
+  "birthday": "9/19/1973",
+  "bio": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
+  "gender": "Female",
+  "bodyType": "Athletic",
+  "preference": "Male",
+  "range": 82,
+  "ageRange": {
+    "min": 23,
+    "max": 33
+  },
+  "long": -121.715732,
+  "lat": 39.567512,
+  "zip": 91362
+}, {
+  "name": "Reggis",
+  "email": "rtethcote15@typepad.com",
+  "birthday": "10/22/1984",
+  "bio": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
+  "gender": "Male",
+  "bodyType": "Average",
   "preference": "Female",
-  "range": 12,
+  "range": 125,
+  "ageRange": {
+    "min": 23,
+    "max": 25
+  },
+  "long": -122.341514,
+  "lat": 39.831187,
+  "zip": 92211
+}, {
+  "name": "Hilario",
+  "email": "hharnett16@amazon.co.jp",
+  "birthday": "1/28/1995",
+  "bio": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
+  "gender": "Male",
+  "bodyType": "Average",
+  "preference": "Female",
+  "range": 104,
+  "ageRange": {
+    "min": 24,
+    "max": 27
+  },
+  "long": -121.446674,
+  "lat": 38.520319,
+  "zip": 92006
+}, {
+  "name": "Bryana",
+  "email": "bcuttler17@illinois.edu",
+  "birthday": "7/30/1960",
+  "bio": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+  "gender": "Female",
+  "bodyType": "Very Plus",
+  "preference": "Female",
+  "range": 17,
+  "ageRange": {
+    "min": 23,
+    "max": 35
+  },
+  "long": -120.737093,
+  "lat": 38.772711,
+  "zip": 90628
+}, {
+  "name": "Wolf",
+  "email": "wsapsed18@berkeley.edu",
+  "birthday": "9/11/2000",
+  "bio": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
+  "gender": "Male",
+  "bodyType": "Athletic",
+  "preference": "Male",
+  "range": 147,
+  "ageRange": {
+    "min": 19,
+    "max": 27
+  },
+  "long": -122.344228,
+  "lat": 38.501677,
+  "zip": 92006
+}, {
+  "name": "Hillary",
+  "email": "haugar19@homestead.com",
+  "birthday": "4/26/1918",
+  "bio": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
+  "gender": "Male",
+  "bodyType": "Average",
+  "preference": "Both",
+  "range": 48,
+  "ageRange": {
+    "min": 19,
+    "max": 28
+  },
+  "long": -120.857269,
+  "lat": 39.640946,
+  "zip": 93792
+}, {
+  "name": "Sherwin",
+  "email": "sdougharty1a@wikimedia.org",
+  "birthday": "7/12/1971",
+  "bio": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.\n\nCurabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+  "gender": "Male",
+  "bodyType": "Athletic",
+  "preference": "Female",
+  "range": 30,
+  "ageRange": {
+    "min": 18,
+    "max": 34
+  },
+  "long": -120.566722,
+  "lat": 38.855413,
+  "zip": 91772
+}, {
+  "name": "Nicola",
+  "email": "njewis1b@senate.gov",
+  "birthday": "2/8/1988",
+  "bio": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+  "gender": "Male",
+  "bodyType": "Plus",
+  "preference": "Male",
+  "range": 68,
+  "ageRange": {
+    "min": 23,
+    "max": 27
+  },
+  "long": -120.803101,
+  "lat": 39.677579,
+  "zip": 90272
+}, {
+  "name": "Letti",
+  "email": "lspratley1c@blog.com",
+  "birthday": "12/28/1978",
+  "bio": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+  "gender": "Female",
+  "bodyType": "Athletic",
+  "preference": "Female",
+  "range": 59,
+  "ageRange": {
+    "min": 21,
+    "max": 27
+  },
+  "long": -121.601201,
+  "lat": 39.220372,
+  "zip": 94741
+}, {
+  "name": "Normand",
+  "email": "nwhitebrook1d@feedburner.com",
+  "birthday": "3/2/1965",
+  "bio": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+  "gender": "Male",
+  "bodyType": "Plus",
+  "preference": "Female",
+  "range": 81,
   "ageRange": {
     "min": 18,
     "max": 35
   },
-  "long": -120.637558,
-  "lat": 39.449026,
-  "zip": 94479
-}, {
-  "name": "Percy",
-  "email": "pbrahamsy@cargocollective.com",
-  "birthday": "9/7/1981",
-  "bio": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
-  "gender": "Male",
-  "bodyType": "Althletic",
-  "preference": "Both",
-  "range": 31,
-  "ageRange": {
-    "min": 18,
-    "max": 25
-  },
-  "long": -121.467914,
-  "lat": 38.467198,
-  "zip": 92862
-}, {
-  "name": "Giustino",
-  "email": "granaghanz@columbia.edu",
-  "birthday": "8/17/1992",
-  "bio": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
-  "gender": "Male",
-  "bodyType": "Althletic",
-  "preference": "Female",
-  "range": 128,
-  "ageRange": {
-    "min": 24,
-    "max": 39
-  },
-  "long": -121.179958,
-  "lat": 38.558417,
-  "zip": 93107
-}, {
-  "name": "Susi",
-  "email": "sdella10@de.vu",
-  "birthday": "3/26/1999",
-  "bio": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
-  "gender": "Female",
-  "bodyType": "Thin",
-  "preference": "Female",
-  "range": 22,
-  "ageRange": {
-    "min": 21,
-    "max": 28
-  },
-  "long": -121.178869,
-  "lat": 38.62249,
-  "zip": 94671
-}, {
-  "name": "Skipton",
-  "email": "sduckit11@mashable.com",
-  "birthday": "11/25/1978",
-  "bio": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
-  "gender": "Male",
-  "bodyType": "Althletic",
-  "preference": "Female",
-  "range": 39,
-  "ageRange": {
-    "min": 25,
-    "max": 26
-  },
-  "long": -121.578182,
-  "lat": 39.317124,
-  "zip": 91353
-}, {
-  "name": "Ethelred",
-  "email": "eroderighi12@state.tx.us",
-  "birthday": "5/2/1989",
-  "bio": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
-  "gender": "Male",
-  "bodyType": "Very Plus",
-  "preference": "Male",
-  "range": 75,
-  "ageRange": {
-    "min": 24,
-    "max": 26
-  },
-  "long": -122.391061,
-  "lat": 38.648487,
-  "zip": 95951
-}, {
-  "name": "Jaquith",
-  "email": "jcake13@sciencedaily.com",
-  "birthday": "9/16/1994",
-  "bio": "Sed ante. Vivamus tortor. Duis mattis egestas metus.",
-  "gender": "Female",
-  "bodyType": "Plus",
-  "preference": "Both",
-  "range": 29,
-  "ageRange": {
-    "min": 19,
-    "max": 37
-  },
-  "long": -122.205546,
-  "lat": 38.980335,
-  "zip": 93602
-}, {
-  "name": "Risa",
-  "email": "rfairtlough14@umich.edu",
-  "birthday": "8/27/1987",
-  "bio": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.",
-  "gender": "Female",
-  "bodyType": "Plus",
-  "preference": "Female",
-  "range": 60,
-  "ageRange": {
-    "min": 22,
-    "max": 37
-  },
-  "long": -121.2006,
-  "lat": 38.90518,
-  "zip": 93173
-}, {
-  "name": "Ray",
-  "email": "rlatta15@xinhuanet.com",
-  "birthday": "6/19/1982",
-  "bio": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
-  "gender": "Male",
-  "bodyType": "Very Plus",
-  "preference": "Female",
-  "range": 123,
-  "ageRange": {
-    "min": 18,
-    "max": 33
-  },
-  "long": -122.040859,
-  "lat": 38.646536,
-  "zip": 95226
-}, {
-  "name": "Jennee",
-  "email": "jclifton16@altervista.org",
-  "birthday": "9/4/1987",
-  "bio": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
-  "gender": "Female",
-  "bodyType": "Thin",
-  "preference": "Male",
-  "range": 42,
-  "ageRange": {
-    "min": 22,
-    "max": 36
-  },
-  "long": -121.593114,
-  "lat": 39.855824,
-  "zip": 94497
-}, {
-  "name": "Winn",
-  "email": "wcandish17@prweb.com",
-  "birthday": "4/28/1978",
-  "bio": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
-  "gender": "Male",
-  "bodyType": "Althletic",
-  "preference": "Both",
-  "range": 112,
-  "ageRange": {
-    "min": 24,
-    "max": 32
-  },
-  "long": -122.411675,
-  "lat": 38.333388,
-  "zip": 94387
-}, {
-  "name": "Lauren",
-  "email": "lsaines18@shutterfly.com",
-  "birthday": "9/8/1991",
-  "bio": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
-  "gender": "Male",
-  "bodyType": "Thin",
-  "preference": "Female",
-  "range": 32,
-  "ageRange": {
-    "min": 21,
-    "max": 32
-  },
-  "long": -120.956593,
-  "lat": 38.423287,
-  "zip": 93699
-}, {
-  "name": "Benjamin",
-  "email": "bmckeurtan19@clickbank.net",
-  "birthday": "1/10/1979",
-  "bio": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
-  "gender": "Male",
-  "bodyType": "Althletic",
-  "preference": "Both",
-  "range": 73,
-  "ageRange": {
-    "min": 19,
-    "max": 30
-  },
-  "long": -121.172986,
-  "lat": 39.415413,
-  "zip": 93800
-}, {
-  "name": "Bernette",
-  "email": "bkalaher1a@w3.org",
-  "birthday": "9/20/1987",
-  "bio": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
-  "gender": "Female",
-  "bodyType": "Very Plus",
-  "preference": "Both",
-  "range": 87,
-  "ageRange": {
-    "min": 18,
-    "max": 25
-  },
-  "long": -122.241286,
-  "lat": 38.260449,
-  "zip": 93219
-}, {
-  "name": "Jeromy",
-  "email": "jbaudon1b@wiley.com",
-  "birthday": "6/10/1979",
-  "bio": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.",
-  "gender": "Male",
-  "bodyType": "Plus",
-  "preference": "Female",
-  "range": 32,
-  "ageRange": {
-    "min": 21,
-    "max": 28
-  },
-  "long": -121.776558,
-  "lat": 38.534561,
-  "zip": 95728
-}, {
-  "name": "Alica",
-  "email": "athexton1c@spotify.com",
-  "birthday": "11/6/1980",
-  "bio": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
-  "gender": "Female",
-  "bodyType": "Very Plus",
-  "preference": "Female",
-  "range": 133,
-  "ageRange": {
-    "min": 20,
-    "max": 33
-  },
-  "long": -121.129606,
-  "lat": 39.554059,
-  "zip": 95199
-}, {
-  "name": "Oralia",
-  "email": "ooriordan1d@liveinternet.ru",
-  "birthday": "5/18/1978",
-  "bio": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
-  "gender": "Female",
-  "bodyType": "Althletic",
-  "preference": "Male",
-  "range": 79,
-  "ageRange": {
-    "min": 23,
-    "max": 37
-  },
-  "long": -121.961175,
-  "lat": 38.263741,
-  "zip": 95615
+  "long": -121.315153,
+  "lat": 39.169656,
+  "zip": 90539
 }]

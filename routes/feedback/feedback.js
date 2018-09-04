@@ -31,4 +31,12 @@ router.post('/profile-feedback/getFeedbackAboutMe', [auth,profileFeedback.getFee
   });
 });
 
+router.post('/profile-feedback/getFeedbackIGave', [auth,profileFeedback.getFeedbackIGaveValidation], function (req, res, next) {
+  profileFeedback.getFeedbackIGave(req, res, next).then(response => {
+    res.json(response);
+  }).catch(error => {
+    res.json(error)
+  });
+});
+
 module.exports = router;
