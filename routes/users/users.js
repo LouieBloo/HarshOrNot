@@ -10,6 +10,7 @@ var profilesRouter = require('./profiles/profiles');
 var searchRouter = require('./search/search');
 var photosRouter = require('./photos/photos');
 var homeRouter = require('./home/home');
+var matchesRouter = require('./matches/matches');
 
 router.post('/register', register.validation, function (req, res, next) {
 
@@ -36,5 +37,6 @@ router.use('/profiles', profilesRouter);
 router.use('/search', searchRouter);
 router.use('/photos', photosRouter);
 router.use('/home', homeRouter);
+router.use('/matches', matchesRouter);
 
 module.exports = router;
