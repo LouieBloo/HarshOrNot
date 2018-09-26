@@ -72,5 +72,8 @@ typings/
 # Serverless directories
 .serverless
 
+
+#project specific
 config/default.json
 config/s3.json
+img/

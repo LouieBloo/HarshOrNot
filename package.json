@@ -31,6 +31,7 @@
     "passport-local": "^1.0.0",
     "seed-random": "^2.2.0",
     "sleep": "^5.2.3",
+    "supertest": "^3.3.0",
     "zipcodes": "^6.0.1"
   }
 }
