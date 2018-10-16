@@ -29,9 +29,12 @@
     "nodemon": "^1.17.5",
     "passport": "^0.4.0",
     "passport-local": "^1.0.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5",
     "seed-random": "^2.2.0",
     "sleep": "^5.2.3",
     "supertest": "^3.3.0",
+    "twilio": "^3.22.0",
     "zipcodes": "^6.0.1"
   }
 }

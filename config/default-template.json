@@ -8,6 +8,12 @@
     },
     "jwt":{
      "secret":""
-    }
+    },
+   "twilio":{
+     "accountSID":"",
+     "sid":"",
+     "key":"",
+     "serviceID":""
+   }
  }
  

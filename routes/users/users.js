@@ -11,6 +11,7 @@ var searchRouter = require('./search/search');
 var photosRouter = require('./photos/photos');
 var homeRouter = require('./home/home');
 var matchesRouter = require('./matches/matches');
+var chatRouter = require('./chat/chat');
 
 router.post('/register', register.validation, function (req, res, next) {
 
@@ -38,5 +39,6 @@ router.use('/search', searchRouter);
 router.use('/photos', photosRouter);
 router.use('/home', homeRouter);
 router.use('/matches', matchesRouter);
+router.use('/chat', chatRouter);
 
 module.exports = router;
