@@ -32,7 +32,7 @@ app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
-app.use(cors({origin:'http://localhost:4200'}));
+app.use(cors());
 
 //passport init always before routing
 app.use(passport.initialize());

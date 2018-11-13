@@ -3,6 +3,7 @@ var router = express.Router();
 
 
 var photos = require('../../../lib/controllers/users/photos/photos');
+const getProfilePhoto = require('../../../lib/controllers/users/photos/getProfilePhoto')
 
 var auth = require('../../../config/auth');
 
@@ -47,5 +48,12 @@ router.post('/getMine',auth,function(req,res,next){
     })
 });
 
+router.post('/getProfile',[auth,getProfilePhoto.validation],function(req,res,next){
+    getProfilePhoto.getPhoto(req,res,next).then(response =>{
+        res.json(response);
+    }).catch(err=>{
+        res.json(err);
+    })
+});
 
 module.exports = router;
