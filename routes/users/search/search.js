@@ -9,7 +9,7 @@ var auth = require('../../../config/auth');
 var automatedSearch = require('../../../lib/controllers/users/search/automated/automated-search');
 var allSearch = require('../../../lib/controllers/users/search/all/all-search');
 
-router.post('/automated',[auth], function(req, res, next) {
+router.get('/automated',[auth], function(req, res, next) {
   automatedSearch(req,res,next).then(response=>{
     res.json(response);
   }).catch(error =>{
