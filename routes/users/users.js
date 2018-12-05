@@ -14,25 +14,28 @@ var matchesRouter = require('./matches/matches');
 var chatRouter = require('./chat/chat');
 
 router.post('/register', register.validation, function (req, res, next) {
-
   register(req, res, next).then(response => {
     res.json(response);
   }).catch(error => {
     res.json(error)
   });
-
 });
 
 router.post('/login', login.validation, function (req, res, next) {
-
   login.login(req, res, next).then(response => {
     res.json(response);
   }).catch(error => {
     res.json(error)
   });
-
 });
 
+router.post('/verify-email',register.verifyValidation,function (req, res, next) {
+  register.verifyToken(req, res, next).then(response => {
+    res.json(response);
+  }).catch(error => {
+    res.json(error)
+  });
+});
 
 router.use('/profiles', profilesRouter);
 router.use('/search', searchRouter);
