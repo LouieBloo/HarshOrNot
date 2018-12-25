@@ -5,6 +5,7 @@ var updateRouter = require('./update/update');
 
 var view = require('../../../lib/controllers/users/profiles/view');
 var mine = require('../../../lib/controllers/users/profiles/mine');
+var discoverable = require('../../../lib/controllers/users/profiles/discoverable');
 
 var auth = require('../../../config/auth');
 
@@ -19,6 +20,14 @@ router.post('/view',[auth,view.validation],function(req, res, next) {
 
 router.post('/mine',auth,function(req,res,next){
   mine(req,res,next).then(response=>{
+    res.json(response);
+  }).catch(error =>{
+    res.json(error)
+  });
+});
+
+router.get('/isDiscoverable',auth,function(req,res,next){
+  discoverable.checkDiscoverability(req,res,next).then(response=>{
     res.json(response);
   }).catch(error =>{
     res.json(error)

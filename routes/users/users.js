@@ -1,17 +1,18 @@
-var express = require('express');
-var app = express();
+const express = require('express');
+const app = express();
 
 var router = express.Router();
 
-var register = require('../../lib/controllers/users/register');
-var login = require('../../lib/controllers/users/login');
+const register = require('../../lib/controllers/users/register');
+const login = require('../../lib/controllers/users/login');
 
-var profilesRouter = require('./profiles/profiles');
-var searchRouter = require('./search/search');
-var photosRouter = require('./photos/photos');
-var homeRouter = require('./home/home');
-var matchesRouter = require('./matches/matches');
-var chatRouter = require('./chat/chat');
+const profilesRouter = require('./profiles/profiles');
+const searchRouter = require('./search/search');
+const photosRouter = require('./photos/photos');
+const homeRouter = require('./home/home');
+const matchesRouter = require('./matches/matches');
+const chatRouter = require('./chat/chat');
+const locationRouter = require('./location/location');
 
 router.post('/register', register.validation, function (req, res, next) {
   register(req, res, next).then(response => {
@@ -43,5 +44,6 @@ router.use('/photos', photosRouter);
 router.use('/home', homeRouter);
 router.use('/matches', matchesRouter);
 router.use('/chat', chatRouter);
+router.use('/location',locationRouter);
 
 module.exports = router;
