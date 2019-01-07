@@ -13,6 +13,7 @@ database.connect();
 //require users schema from mongoose so passport can use to initialize jwt auth
 require('./lib/models/users');
 require('./lib/models/profile-feedback');
+require('./lib/models/support-feedback');
 require('./config/passport');//always after users model
 
 //routing requires
