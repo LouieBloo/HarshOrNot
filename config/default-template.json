@@ -18,6 +18,9 @@
    },
    "sendgrid":{
 		"apiKey":""
+  },
+  "support":{
+		"feedbackAndBugEmail":""
 	}
  }
  
