@@ -4,7 +4,8 @@
      "port":27017,
      "name":"HarshOrNot",
      "user":"",
-     "pass":""
+     "pass":"",
+     "fullProductionURL":"mongodb+srv://DBUSERNAME:DBUSERPASSWORD@harshawscluster1-zxcda.mongodb.net/HarshOrNot?retryWrites=true"
     },
     "jwt":{
      "secret":""
