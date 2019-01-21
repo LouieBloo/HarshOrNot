@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
-    "start-production": "NODE_ENV=production node ./bin/www",
+    "start-dev":"node ./bin/www",
     "monitor": "nodemon ./bin/www",
     "seed": "node ./lib/database/seeding/seedFakeUsers"
   },

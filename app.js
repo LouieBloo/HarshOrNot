@@ -39,7 +39,7 @@ app.use(cors());
 app.use(passport.initialize());
 
 //all routers
-app.use('/api',apiRouter);
+app.use('/',apiRouter);
 
 
 
